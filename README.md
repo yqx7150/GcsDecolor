@@ -1,8 +1,8 @@
 # GcsDecolor  
-Gradient correlation similarity for efficient contrast preserving decolorization 
-
-%% The Code is created based on the method described in the following papers: 
-% [1] Q. Liu, P.X. Liu, W. Xie, Y. Wang, D. Liang, “GcsDecolor: Gradient correlation similarity for efficient contrast preserving decolorization,” 
+Gradient correlation similarity for efficient contrast preserving decolorization  
+ 
+%% The Code is created based on the method described in the following papers:  
+% [1] Q. Liu, P.X. Liu, W. Xie, Y. Wang, D. Liang, “GcsDecolor: Gradient correlation similarity for efficient contrast preserving decolorization,”  
 % IEEE Trans. Image Process., vol. 24, no. 9, pp. 2889-2904, 2015. 
 % Author: Q. Liu, P.X. Liu, W. Xie, Y. Wang, D. Liang  
 % Date : 02/7/2016 
