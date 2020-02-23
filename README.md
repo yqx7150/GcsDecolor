@@ -34,4 +34,7 @@ Gradient correlation similarity for efficient contrast preserving decolorization
   * Log-Euclidean Metrics for Contrast Preserving Decolorization
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8016668)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LeDecolor)
 
+  * Semiparametric Decolorization With Laplacian-Based Perceptual Quality Metric
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/7456206)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SPDecolor)
+
   * Variable augmented neural network for decolorization and multi-exposure fusion [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1566253517305298)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code)
