@@ -25,3 +25,6 @@ Gradient correlation similarity for efficient contrast preserving decolorization
   
 ## Demonstration of GcsDecolor  
 ![](./figs/DemonstrationGcs.png)     
+
+## Flowchart of (a) the classical GE and (b) the proposed Gcs measures.
+![](./figs/Compare_GE_Gcs.png)   
