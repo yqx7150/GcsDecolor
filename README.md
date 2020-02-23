@@ -11,8 +11,7 @@ Gradient correlation similarity for efficient contrast preserving decolorization
 % Copyright 2016, Department of Electronic Information Engineering, Nanchang University.  
 % The current version is not optimized.  
 % GcsDecolor2 - contrast preserving color-to-gray via Gradient correlation similarity   
-% S = GcsDecolor2(Im, Lpp) performs contrast preserving decolorization    
-% on color image Im, with controling parameter Lpp    
+% S = GcsDecolor2(Im, Lpp) performs contrast preserving decolorization on color image Im, with controling parameter Lpp    
 %   
 % Paras:    
 % @Im : Input image (double), only color images are acceptable.    
