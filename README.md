@@ -28,3 +28,11 @@ Gradient correlation similarity for efficient contrast preserving decolorization
 
 ## Flowchart of (a) the classical GE and (b) the proposed Gcs measures.
 ![](./figs/Compare_GE_Gcs.png)   
+
+
+## Other Related Projects
+  * Log-Euclidean Metrics for Contrast Preserving Decolorization
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8016668)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LeDecolor)
+
+  * Variable augmented neural network for decolorization and multi-exposure fusion  
+ [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1566253517305298)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code)
